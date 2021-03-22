@@ -1,9 +1,9 @@
 ### Hi there 👋, This is Vignesh 😁
 ![](https://lh3.googleusercontent.com/-mXAaqBKPKMI/YFhgGO8t3zI/AAAAAAAAbeE/eDvvys0erOU_zoY6W8LN8KdvVAz7NVKYgCLcBGAsYHQ/s0/Github%2BBanner%2B%25281%2529.png?authuser=0)
 
-Random 17Y/O who is interested in computer programming/coding... 💻
+**Random 17Y/O, interested in computer programming/coding... 💻**
 
-Skills: Python
+**Skills:** ***Python***
 
 - 🌱 I’m currently learning Python Machine Learning, C++ 
 - 👯 I’m looking to collaborate on some OP open source projects. 
