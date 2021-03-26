@@ -1,5 +1,5 @@
 ### Hey there 👋, This is Vignesh 😁
-![](https://lh3.googleusercontent.com/-mXAaqBKPKMI/YFhgGO8t3zI/AAAAAAAAbeE/eDvvys0erOU_zoY6W8LN8KdvVAz7NVKYgCLcBGAsYHQ/s0/Github%2BBanner%2B%25281%2529.png?authuser=0)
+![](https://raw.githubusercontent.com/Vignesh-Venkatesh/Vignesh-Venkatesh/main/Github%20Banner%20(1).jpg)
 
 **Random 17Y/O, interested in computer programming/coding... 💻**
 
