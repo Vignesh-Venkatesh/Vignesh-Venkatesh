@@ -5,8 +5,8 @@
 
 **Skills:** ***Python***
 
-- 🌱 I’m currently learning Python Machine Learning, C++ 
-- 👯 I’m looking to collaborate on some OP open source projects. 
+- 🌱 I’m currently learning Python Data Science, C++ 
+- 👯 I’m looking to collaborate on some open source projects. 
 - 🤔 I’m looking for help with starting out in open source. 
 
 
