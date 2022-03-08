@@ -1,7 +1,7 @@
 ### Hey there 👋, This is Vignesh 😁
 ![](https://raw.githubusercontent.com/Vignesh-Venkatesh/Vignesh-Venkatesh/main/Github%20Banner%20(1).jpg)
 
-**Random 17Y/O, interested in computer programming/coding... 💻**
+**Random 18Y/O, interested in computer programming/coding... 💻**
 
 **Skills:** ***Python***
 
