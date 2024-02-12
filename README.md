@@ -4,13 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-venkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-venkatesh" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://www.vigiii.com](https://www.vigiii.com)
 
-- 📫 How to reach me **vxv5143@psu.edu**
-
-- 📄 Know about my experiences [https://vigiii.com/Assets/Resume.pdf](https://vigiii.com/Assets/Resume.pdf)
+<ul>
+  <li>🌱 I’m currently learning <strong>ReactJS, NodeJS, ExpressJS, MongoDB</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://www.vigiii.com">my portfolio!</a></li>
+  <li>📫 How to reach me <strong>vxv5143@psu.edu</strong></li>
+  <li>📄 Know about my experiences through <a href="https://vigiii.com/Assets/Resume.pdf">my resume!</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
