@@ -19,7 +19,7 @@ I'm a senior studying B.S. Computer Science at the Pennsylvania State University
 
 #### 🗨️ Connect with me
 
-- **Website/Portfolio:** [vigneshvenkatesh.com](https://www.vigneshvenkatesh.com)
+- **Website/Portfolio:** [vigneshvenkatesh.com](https://vigneshvenkatesh.com)
 - **LinkedIn Profile:** [LinkedIn Profile](https://www.linkedin.com/in/vignesh-2k3/)
 
 ---
