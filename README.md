@@ -4,16 +4,16 @@
 
 ### 👋 Hi there, I'm Vignesh Venkatesh!
 
-I'm a senior studying B.S. Computer Science at the Pennsylvania State University.
+I'm an MSCS (Masters in Computer Science) student at NYU (New York University) Courant!
 
 ---
 
 #### 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, C, SQL,
-- **FrameWorks:** ReactJS, NodeJS, ExpressJS
-- **Databases:** PostgreSQL
-- **Other:** Vite, Nginx, PassportJS
+- **Languages:** JavaScript, TypeScript, Python, C, SQL
+- **FrameWorks/Libraries:** ReactJS, ExpressJS, Hono
+- **Databases:** PostgreSQL, Supabase
+- **Other:** Vite, Node, Bun
 
 ---
 
